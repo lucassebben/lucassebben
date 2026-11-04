@@ -8,3 +8,6 @@ Nos últimos 6 anos, dediquei-me integralmente à cibersegurança, com principal
 Atualmente, atuo na operação de SOC e CSIRT desenvolvendo playbooks e runbooks de resposta a incidentes, como analista N3 no tratamento de alertas e como gestor técnico de incidentes, conduzindo investigações do início ao encerramento. Meu esforço diário está voltado a evoluir a engenharia de detecção, automatizar a resposta a incidentes via SOAR e integrar CTI e Gestão de Vulnerabilidades à rotina do SOC. Como próximo passo na carreira, busco me consolidar como especialista em SOC/CSIRT, com atuação cada vez mais voltada à engenharia de detecção e ao threat hunting proativo — antecipando o comportamento do adversário em vez de apenas reagir a ele.  
 
 Costumo unir a vivência prática de quem já resolveu problemas de infraestrutura "no chão de fábrica" com a visão estratégica de quem hoje pensa em governança, processos e maturidade de segurança. Se você atua ou tem interesse em SOC, CSIRT, threat intelligence, engenharia de detecção ou automação de resposta a incidentes, será um prazer trocar experiências.
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) Lucas Sebben](https://www.linkedin.com/in/lucassebben/)
+&nbsp;
